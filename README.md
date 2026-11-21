@@ -1,6 +1,6 @@
 # PacketMaze Lab: Network Forensics Write-up
 
-> **Platform:** CyberDefenders · **Category:** Network Forensics · **Tool:** Wireshark · **Questions:** 11
+> **Platform:** CyberDefenders(https://cyberdefenders.org/blueteam-ctf-challenges/packetmaze/) · **Category:** Network Forensics · **Tool:** Wireshark · **Questions:** 11
 
 ## Scenario
 
